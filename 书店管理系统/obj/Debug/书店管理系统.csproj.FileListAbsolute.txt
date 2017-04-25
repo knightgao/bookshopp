@@ -34,3 +34,5 @@ D:\kecheng\netdazuoye\书店管理系统2\书店管理系统\obj\Debug\书店管
 D:\kecheng\netdazuoye\书店管理系统2\书店管理系统\obj\Debug\书店管理系统.pdb
 \\DESKTOP-0FVH9EA\netdazuoye\书店管理系统2\书店管理系统\obj\Debug\书店管理系统.exe
 \\DESKTOP-0FVH9EA\netdazuoye\书店管理系统2\书店管理系统\obj\Debug\书店管理系统.pdb
+D:\git2\书店管理系统\obj\Debug\书店管理系统.exe
+D:\git2\书店管理系统\obj\Debug\书店管理系统.pdb
